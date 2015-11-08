@@ -1,0 +1,19 @@
+﻿<Window x:Class="HopeSSDownloader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HopeSSDownloader"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="17,10,0,0" TextWrapping="Wrap" Text="Hope Sabbath School Downloader" VerticalAlignment="Top" FontWeight="Bold" FontSize="22.667"/>
+        <ListView x:Name="listView" HorizontalAlignment="Left" Height="165" Margin="17,86,0,0" VerticalAlignment="Top" Width="490" SelectionChanged="listView_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

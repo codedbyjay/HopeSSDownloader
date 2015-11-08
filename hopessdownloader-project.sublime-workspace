@@ -1,0 +1,1692 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"position"
+			],
+			[
+				"seconda",
+				"secondary	(layout.html)"
+			],
+			[
+				"ju",
+				"jumbotron"
+			],
+			[
+				"rev",
+				"reviews	(views.py)"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"ProductListVi",
+				"ProductUnitTypeProductsListView"
+			],
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"product_unit_t",
+				"product_unit_type	(forms.py)"
+			],
+			[
+				"Productdelet",
+				"ProductUnitTypeDeleteView"
+			],
+			[
+				"SearcForm",
+				"ProductUnitTypeSearchForm"
+			],
+			[
+				"ProducTable",
+				"ProductUnitTypeTable"
+			],
+			[
+				"unit_lon",
+				"unit_long_plural_name	(models.py)"
+			],
+			[
+				"unit_short_na",
+				"unit_short_plural_name	(models.py)"
+			],
+			[
+				"unit_short_n",
+				"unit_short_plural_name	(models.py)"
+			],
+			[
+				"unit_",
+				"unit_short_name	(models.py)"
+			],
+			[
+				"PRODUCT_LINK",
+				"PRODUCT_LINKS_CHILDREN"
+			],
+			[
+				"ProductUnitT",
+				"ProductUnitType"
+			],
+			[
+				"dashb",
+				"dashboard"
+			],
+			[
+				"ProductUni",
+				"ProductUnitType	(models.py)"
+			],
+			[
+				"produunit",
+				"product_unit_type_list_view"
+			],
+			[
+				"dash",
+				"dashboard	(app.py)"
+			],
+			[
+				"Aail",
+				"Availability	(strategy.py)"
+			],
+			[
+				"avail",
+				"availability	(strategy.py)"
+			],
+			[
+				"unit_h",
+				"unit_short_plural_name	(models.py)"
+			],
+			[
+				"unit_t",
+				"unit_type"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"unit_sh",
+				"unit_short_plural_name"
+			],
+			[
+				"trans",
+				"transparent	(layout.less)"
+			],
+			[
+				"thum",
+				"thumbnail"
+			],
+			[
+				"CREATE_",
+				"CREATE_PARTNER_AND_FARMER"
+			],
+			[
+				"regit",
+				"register_with_token_url"
+			],
+			[
+				"get_reg",
+				"get_registration_form_kwargs"
+			],
+			[
+				"RegisterWI",
+				"RegisterWithTokenView"
+			],
+			[
+				"USER_",
+				"USER_SUPPLIER	(models.py)"
+			],
+			[
+				"RegisterWi",
+				"RegisterWithTokenForm	(forms.py)"
+			],
+			[
+				"FarmerRein",
+				"FarmerResendInvitationForm"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"address",
+				"addresses"
+			],
+			[
+				"send_",
+				"send_mobile_activation_code	(models.py)"
+			],
+			[
+				"cle",
+				"cleaned_data"
+			],
+			[
+				"FarmerVali",
+				"FarmerValidateForm"
+			],
+			[
+				"INVI",
+				"INVITATION_COMMUNICATION_TYPE_CODE"
+			],
+			[
+				"INVISMS",
+				"INITIVATION_SMS_COMMUNICATION_TYPE_CODE"
+			],
+			[
+				"Valida",
+				"ValidationError"
+			],
+			[
+				"TOKEN_",
+				"TOKEN_MOBILE	(tests.py)"
+			],
+			[
+				"FarmerVlid",
+				"FarmerValidateForm"
+			],
+			[
+				"Farm",
+				"Farmer"
+			],
+			[
+				"wri",
+				"wrightproduce	(settings.py)"
+			],
+			[
+				"profile_vi",
+				"profile_view_url"
+			],
+			[
+				"registration",
+				"registration_details"
+			],
+			[
+				"get_us",
+				"get_user_model"
+			],
+			[
+				"Part",
+				"PartnerAddress	(forms.py)"
+			],
+			[
+				"parn",
+				"partner_token"
+			],
+			[
+				"invitation",
+				"invitation_sms_communication_type_code"
+			],
+			[
+				"Communi",
+				"CommunicationEventType"
+			],
+			[
+				"part",
+				"partner"
+			],
+			[
+				"HttBad",
+				"HttpResponseBadRequest	(views.py)"
+			],
+			[
+				"visi",
+				"visibleFields"
+			],
+			[
+				"FarmerCrea",
+				"FarmerCreateForm"
+			],
+			[
+				"CREATE_PAR",
+				"CREATE_PARTNER_ONLY"
+			],
+			[
+				"field_na",
+				"field_names"
+			],
+			[
+				"get_cl",
+				"get_class	(app.py)"
+			],
+			[
+				"dea",
+				"default_access_fn"
+			],
+			[
+				"def",
+				"default_permissions	(app.py)"
+			],
+			[
+				"dashbaordacc",
+				"dashboard_access_perm"
+			],
+			[
+				"email",
+				"EmailUserCreationForm"
+			],
+			[
+				"com",
+				"company_name"
+			],
+			[
+				"user_",
+				"user_type	(models.py)"
+			],
+			[
+				"Automat",
+				"AutomaticProductList"
+			],
+			[
+				"Autoa",
+				"AutomaticProductList"
+			],
+			[
+				"sample_pr",
+				"sample_product_images_dir"
+			],
+			[
+				"user_field",
+				"user_field_names	(forms.py)"
+			],
+			[
+				"exlc",
+				"exclude_fields"
+			],
+			[
+				"Robot",
+				"RobotoSlab-Regular"
+			],
+			[
+				"bs3-input",
+				"bs3-input:text	bs3-input-text"
+			],
+			[
+				"bs3-navbar",
+				"bs3-navbar:inverse	bs3-navbar-inverse"
+			],
+			[
+				"jus",
+				"justify"
+			],
+			[
+				"breadcr",
+				"breadcrumb"
+			],
+			[
+				"custom",
+				"customer"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"cra",
+				"createRESTAPI"
+			],
+			[
+				"prese",
+				"presenter"
+			],
+			[
+				"presenter",
+				"presenter_id"
+			],
+			[
+				"presen",
+				"presenter"
+			],
+			[
+				"pres",
+				"presenter_list_dict"
+			],
+			[
+				"gyc",
+				"gyc_controller_url"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "saveas",
+		"selected_items":
+		[
+			[
+				"saveas",
+				"Project: Save As"
+			],
+			[
+				"addfo",
+				"Project: Add Folder"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"convertsp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conversp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"cloee all",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"closeall",
+				"File: Close All"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"vagrantup",
+				"Vagrant: Up"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"reine",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"conspace",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"lcose al",
+				"File: Close All"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"sync",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"closeal",
+				"File: Close All"
+			],
+			[
+				"vagrantstatus",
+				"Vagrant: Status"
+			],
+			[
+				"vagranthalt",
+				"Vagrant: Halt"
+			],
+			[
+				"vagraup",
+				"Vagrant: Up"
+			],
+			[
+				"installpack",
+				"Package Control: Install Package"
+			],
+			[
+				"instap",
+				"Package Control: Install Package"
+			],
+			[
+				"vagranup",
+				"Vagrant: Up"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"vagrahalt",
+				"Vagrant: Halt"
+			],
+			[
+				"vagrup",
+				"Vagrant: Up"
+			],
+			[
+				"vagup",
+				"Vagrant: Up"
+			],
+			[
+				"vagranhal",
+				"Vagrant: Halt"
+			],
+			[
+				"vagrareload",
+				"Vagrant: Reload"
+			],
+			[
+				"ruy",
+				"Set Syntax: Ruby"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"halt",
+				"Vagrant: Halt"
+			],
+			[
+				"reload",
+				"Vagrant: Reload"
+			],
+			[
+				"vagrantrl",
+				"Vagrant: Reload"
+			],
+			[
+				"vagranthal",
+				"Vagrant: Halt"
+			],
+			[
+				"provision",
+				"Vagrant: Provision"
+			],
+			[
+				"provis",
+				"Vagrant: Provision"
+			],
+			[
+				"vagrantin",
+				"Vagrant: Init"
+			],
+			[
+				"vagrant in",
+				"Vagrant: Init"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"vagrnt status",
+				"Vagrant: Status"
+			],
+			[
+				"",
+				"Convert Case: Title Case"
+			],
+			[
+				"vagrant hal",
+				"Vagrant: Halt"
+			],
+			[
+				"vagrant up",
+				"Vagrant: Up"
+			],
+			[
+				"vagrant status",
+				"Vagrant: Status"
+			],
+			[
+				"vagnat up",
+				"Vagrant: Up"
+			],
+			[
+				"vagrant halt",
+				"Vagrant: Halt"
+			],
+			[
+				"vagrant statu",
+				"Vagrant: Status"
+			],
+			[
+				"vagrantpro",
+				"Vagrant: Provision"
+			],
+			[
+				"destroy",
+				"Vagrant: Destroy"
+			],
+			[
+				"vagprov",
+				"Vagrant: Provision"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"clos e",
+				"File: Close All"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 320.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jay/Documents/Code/HopeSSDownloader"
+	],
+	"file_history":
+	[
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/settings.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/base.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/layout.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/checkout/layout.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/customer/mixins.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/customer/forms.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/customer/views.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/customer/register_with_token.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/checkout/checkout.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/checkout/views.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/checkout/app.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/page/layout.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/customer/views.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/checkout/shipping_address.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/checkout/checkout.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/checkout/shipping_address.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/promotions/wp_home.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/page/colors.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/layout_brown.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/page/alerts.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/catalogue/views.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/catalogue/app.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/promotions/app.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/promotions/views.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/promotions/home.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/page/product_page.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/catalogue/reviews/views.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/catalogue/reviews/review_list.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/page/reviews.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/catalogue/reviews/app.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/catalogue/detail.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/customer/history/recently_viewed_products.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/catalogue/partials/review.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/catalogue/reviews/review_product.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/catalogue/reviews/review_product.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/catalogue/partials/review.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/catalogue/reviews/partials/review.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/catalogue/reviews/review_list.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/catalogue/reviews/review_form.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/page/products.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/dashboard/mixins.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/catalogue/reviews/review_form.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/dashboard/catalogue/app.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/catalogue/reviews/__init__.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/catalogue/__init__.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/catalogue/reviews/config.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/dashboard/catalogue/app.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/basket/partials/basket_totals.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/page/checkout.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/partials/footer.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/styles.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/dashboard/catalogue/views.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/dashboard/catalogue/product_unit_type_form.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/dashboard/catalogue/views.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/dashboard/catalogue/product_unit_type_products_list.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/management/commands/initialize_store.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/local_settings.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/dashboard/catalogue/product_list.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/catalogue/models.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/dashboard/catalogue/tables.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/dashboard/catalogue/product_unit_type_products.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/basket/partials/basket_content.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/dashboard/catalogue/tables.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/dashboard/catalogue/product_unit_type_list.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/dashboard/catalogue/product_unit_type_delete.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/dashboard/catalogue/product_delete.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/dashboard/catalogue/forms.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/dashboard/catalogue/product_row_title.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/dashboard/catalogue/product_unit_type_actions.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/dashboard/catalogue/product_class_list.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/dashboard/catalogue/product_class_form.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/dashboard/catalogue/product_row_actions.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/partials/form_fields_inline.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/dashboard/catalogue/forms.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/dashboard/partners/app.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/core/application.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/dashboard/catalogue/product_update.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/partner/availability.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/partner/availability.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/basket/messages/addition.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/basket/basket.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/partner/strategy.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/partner/strategy.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templatetags/purchase_info_tags.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/basket/middleware.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/purchase_info_tags.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/basket/app.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/partner/abstract_models.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/basket/views.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/catalogue/abstract_models.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templatetags/purchase_info_tags.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/basket/partials/basket_content.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/basket/messages/line_restored.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/basket/messages/line_saved.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/basket/messages/new_total.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/basket/messages/addition.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/catalogue/partials/add_to_basket_form.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/customer/app.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/address/models.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/user/fixtures/initial_data.json",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/catalogue/models.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/basket/models.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/basket/abstract_models.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/customer/login_registration.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/page/wells.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/partials/form.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/catalogue/browse.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/partials/form.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/catalogue/browse.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/js/form_utils.js",
+		"/C/Users/Jay/Documents/Code/wrightproduce/.gitignore",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/dashboard/partners/forms.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/partner/models.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/Vagrantfile",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templatetags/basket_tags.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/promotions/baseproductlist.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/page/forms.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/static/oscar/less/page/product_lists.less",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/catalogue/partials/add_to_basket_form_compact.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/layout_2_col.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/templates/catalogue/partials/product.html",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/management/commands/oscar_import_catalogue.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/partner/importers.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/data/sample_products.csv",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/management/commands/oscar_import_catalogue_images.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/wrightproduce/utils.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/apps/catalogue/utils.py",
+		"/C/Users/Jay/Documents/Code/wrightproduce/oscar-src/templates/oscar/dashboard/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.less",
+			"wrightproduce/templates/*.html",
+			"*.html",
+			"*.less",
+			"*.css",
+			"*.less",
+			"*.html",
+			"*.less",
+			"",
+			"*.less",
+			"",
+			"*.py",
+			"*.html",
+			"*.less",
+			"*.html",
+			"",
+			"*.css",
+			"*.less",
+			"*.py",
+			"*.less",
+			"*.html",
+			"*/html",
+			"",
+			"*.html",
+			"*.less",
+			"*.html",
+			"*.less",
+			"*.html",
+			"*.less",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.html",
+			"*.py",
+			"*.html",
+			"",
+			"C:\\Users\\Jay\\Documents\\Code\\wrightproduce\\wrightproduce\\data\\product_images",
+			"*.html",
+			"*.py",
+			"*.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"token",
+			"datetime",
+			"token",
+			"get_form_kwargs",
+			"EmailUserCreationForm",
+			"RegisterWithTokenForm",
+			"checkout_title",
+			"row-fluid",
+			"primary",
+			"dark",
+			"medium",
+			"info",
+			"orage",
+			"primary",
+			"btn-primary",
+			"btn-info",
+			"alert",
+			"after_nav",
+			"block logo_extra",
+			"xs",
+			"recently_viewed_products",
+			"span",
+			"span2",
+			"row-fluid",
+			"Sort by",
+			"small",
+			".review",
+			"jumbotron",
+			"small",
+			"jumbotron",
+			"h3",
+			"ol",
+			"review-list",
+			"E6CE31",
+			"#E6CE31",
+			".review_add",
+			"#f5f5f5",
+			"f5f5f5",
+			".review_add",
+			".add_review",
+			"legend",
+			"Leave a pro",
+			"row",
+			"{%",
+			"reviews/",
+			"reviews/add",
+			"class ProductDetailView(DetailView):",
+			"ProductReview",
+			"basket_totals",
+			".total",
+			"copyright",
+			"<footer",
+			"3",
+			"Prodoct",
+			"Country",
+			"product_unit_type_products",
+			"products",
+			"record",
+			"unit_long_name",
+			"self",
+			"ProductUnitTypeTable",
+			"ProductsTable",
+			"ProductUnitTypeProductsTable",
+			"ProductUnitTypeTable",
+			"product_unit_type_list",
+			"product_unit_types",
+			"SingleTableMixin",
+			"SingleObjectMixin",
+			"product_unit_types",
+			"TemplateView",
+			"product_unit_type_products_list_view",
+			"product_unit_type_products_view",
+			"update",
+			"actions",
+			"catalogue",
+			"get_title",
+			"product",
+			"delete",
+			"AbstractProduct",
+			"ProductDeleteView",
+			"record",
+			"catalogue",
+			"delete",
+			"update",
+			"DeleteView",
+			"ProductUnitTypeUpdateView",
+			" \n",
+			"catalogue-product-unit-t",
+			"search_form",
+			"product_unit_search_form",
+			"search_form",
+			"ProductUnitTypeSearchForm",
+			"ProductUnitTypeForm",
+			"query",
+			"ProductCreateUpdateView",
+			"Product",
+			"search_form_class",
+			"form",
+			"form_class",
+			"queryset",
+			"short",
+			"title",
+			"\n            ",
+			"title",
+			"form_class",
+			"ProductUnitTypeSearchForm",
+			"from",
+			"ProductUnitTypeSearchForm",
+			"ProductUnitTypeForm",
+			"ProductUnitTypeSearchForm",
+			"cleaned_data",
+			"ProductSearchForm",
+			"queryset",
+			"apply_search",
+			"django_tables2",
+			"ProductUnitTypeForm",
+			"productunittypeclass_form",
+			"catalogue",
+			"form",
+			"ProductUnitTypeClassCreateView",
+			"ProductClassCreateView",
+			"class",
+			"product_list",
+			"products",
+			"productunittypeclass_form",
+			"product",
+			"Product",
+			"product"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "hopessdownloader-project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"customerforms",
+				"wrightproduce\\customer\\forms.py"
+			],
+			[
+				"customermixins",
+				"oscar-src\\apps\\customer\\mixins.py"
+			],
+			[
+				"customerviews",
+				"oscar-src\\apps\\customer\\views.py"
+			],
+			[
+				"register_wit",
+				"wrightproduce\\templates\\customer\\register_with_token.html"
+			],
+			[
+				"layout",
+				"wrightproduce\\templates\\layout.html"
+			],
+			[
+				"basehtml",
+				"wrightproduce\\templates\\base.html"
+			],
+			[
+				"checkoutlayout",
+				"oscar-src\\templates\\oscar\\checkout\\layout.html"
+			],
+			[
+				"checkouthtml",
+				"oscar-src\\templates\\oscar\\checkout\\checkout.html"
+			],
+			[
+				"shipping_add",
+				"oscar-src\\templates\\oscar\\checkout\\shipping_address.html"
+			],
+			[
+				"checkoutviews",
+				"oscar-src\\apps\\checkout\\views.py"
+			],
+			[
+				"setting",
+				"wrightproduce\\settings.py"
+			],
+			[
+				"checkoutapp",
+				"oscar-src\\apps\\checkout\\app.py"
+			],
+			[
+				"layoutless",
+				"wrightproduce\\static\\oscar\\less\\page\\layout.less"
+			],
+			[
+				"colorsless",
+				"wrightproduce\\static\\oscar\\less\\page\\colors.less"
+			],
+			[
+				"alertsless",
+				"wrightproduce\\static\\oscar\\less\\page\\alerts.less"
+			],
+			[
+				"layout_bro",
+				"wrightproduce\\templates\\layout_brown.html"
+			],
+			[
+				"wp_hom",
+				"wrightproduce\\templates\\promotions\\wp_home.html"
+			],
+			[
+				"promotionsview",
+				"wrightproduce\\promotions\\views.py"
+			],
+			[
+				"promotionsapp",
+				"oscar-src\\apps\\promotions\\app.py"
+			],
+			[
+				"catalogapp",
+				"oscar-src\\apps\\catalogue\\app.py"
+			],
+			[
+				"catalogviews",
+				"oscar-src\\apps\\catalogue\\views.py"
+			],
+			[
+				"home",
+				"oscar-src\\templates\\oscar\\promotions\\home.html"
+			],
+			[
+				"recentl",
+				"wrightproduce\\templates\\customer\\history\\recently_viewed_products.html"
+			],
+			[
+				"detail",
+				"wrightproduce\\templates\\catalogue\\detail.html"
+			],
+			[
+				"pageless",
+				"wrightproduce\\static\\oscar\\less\\page\\product_page.less"
+			],
+			[
+				"review_prod",
+				"oscar-src\\templates\\oscar\\catalogue\\reviews\\review_product.html"
+			],
+			[
+				"reiewl",
+				"wrightproduce\\templates\\catalogue\\reviews\\review_list.html"
+			],
+			[
+				"reviewsviews",
+				"oscar-src\\apps\\catalogue\\reviews\\views.py"
+			],
+			[
+				"reviewapp",
+				"oscar-src\\apps\\catalogue\\reviews\\app.py"
+			],
+			[
+				"reviewsapp",
+				"oscar-src\\apps\\catalogue\\reviews\\app.py"
+			],
+			[
+				"reviewhtml",
+				"wrightproduce\\templates\\catalogue\\partials\\review.html"
+			],
+			[
+				"catalogdetail",
+				"wrightproduce\\templates\\catalogue\\detail.html"
+			],
+			[
+				"review_lis",
+				"oscar-src\\templates\\oscar\\catalogue\\reviews\\review_list.html"
+			],
+			[
+				"reviewview",
+				"oscar-src\\apps\\catalogue\\reviews\\views.py"
+			],
+			[
+				"review_form",
+				"oscar-src\\templates\\oscar\\catalogue\\reviews\\review_form.html"
+			],
+			[
+				"reviewscon",
+				"wrightproduce\\catalogue\\reviews\\config.py"
+			],
+			[
+				"cataloguedetail",
+				"wrightproduce\\templates\\catalogue\\detail.html"
+			],
+			[
+				"settin",
+				"wrightproduce\\settings.py"
+			],
+			[
+				"reviews/views",
+				"oscar-src\\apps\\catalogue\\reviews\\views.py"
+			],
+			[
+				"catalogueapp",
+				"oscar-src\\apps\\dashboard\\catalogue\\app.py"
+			],
+			[
+				"cataloapp",
+				"oscar-src\\apps\\catalogue\\app.py"
+			],
+			[
+				"colorless",
+				"wrightproduce\\static\\oscar\\less\\page\\colors.less"
+			],
+			[
+				"styleless",
+				"wrightproduce\\static\\oscar\\less\\styles.less"
+			],
+			[
+				"base",
+				"wrightproduce\\templates\\base.html"
+			],
+			[
+				"localsett",
+				"wrightproduce\\local_settings.py"
+			],
+			[
+				"basket_conte",
+				"wrightproduce\\templates\\basket\\partials\\basket_content.html"
+			],
+			[
+				"intialize",
+				"wrightproduce\\management\\commands\\initialize_store.py"
+			],
+			[
+				"product_unit_form",
+				"wrightproduce\\templates\\dashboard\\catalogue\\product_unit_type_form.html"
+			],
+			[
+				"catalogueviews",
+				"oscar-src\\apps\\dashboard\\catalogue\\views.py"
+			],
+			[
+				"productlist",
+				"oscar-src\\templates\\oscar\\dashboard\\catalogue\\product_list.html"
+			],
+			[
+				"catalogmodels",
+				"wrightproduce\\catalogue\\models.py"
+			],
+			[
+				"table",
+				"oscar-src\\apps\\dashboard\\catalogue\\tables.py"
+			],
+			[
+				"productunitypeor",
+				"wrightproduce\\templates\\dashboard\\catalogue\\product_unit_type_products.html"
+			],
+			[
+				"tables",
+				"wrightproduce\\dashboard\\catalogue\\tables.py"
+			],
+			[
+				"productunittypelis",
+				"wrightproduce\\templates\\dashboard\\catalogue\\product_unit_type_list.html"
+			],
+			[
+				"catalapp",
+				"oscar-src\\apps\\catalogue\\app.py"
+			],
+			[
+				"prounitaction",
+				"wrightproduce\\templates\\dashboard\\catalogue\\product_unit_type_actions.html"
+			],
+			[
+				"unitproduc",
+				"wrightproduce\\templates\\dashboard\\catalogue\\product_unit_type_products.html"
+			],
+			[
+				"product_row_tit",
+				"oscar-src\\templates\\oscar\\dashboard\\catalogue\\product_row_title.html"
+			],
+			[
+				"productunitdelet",
+				"wrightproduce\\templates\\dashboard\\catalogue\\product_unit_type_delete.html"
+			],
+			[
+				"product_dele",
+				"oscar-src\\templates\\oscar\\dashboard\\catalogue\\product_delete.html"
+			],
+			[
+				"productrowactions",
+				"oscar-src\\templates\\oscar\\dashboard\\catalogue\\product_row_actions.html"
+			],
+			[
+				"productunittypeform",
+				"wrightproduce\\templates\\dashboard\\catalogue\\product_unit_type_form.html"
+			],
+			[
+				"productclasslis",
+				"oscar-src\\templates\\oscar\\dashboard\\catalogue\\product_class_list.html"
+			],
+			[
+				"form_felds_inline",
+				"oscar-src\\templates\\oscar\\partials\\form_fields_inline.html"
+			],
+			[
+				"catalogeforms",
+				"wrightproduce\\dashboard\\catalogue\\forms.py"
+			],
+			[
+				"forms",
+				"wrightproduce\\dashboard\\catalogue\\forms.py"
+			],
+			[
+				"catalogforms",
+				"oscar-src\\apps\\dashboard\\catalogue\\forms.py"
+			],
+			[
+				"catalogueforms",
+				"wrightproduce\\dashboard\\catalogue\\forms.py"
+			],
+			[
+				"productclass_for",
+				"oscar-src\\templates\\oscar\\dashboard\\catalogue\\product_class_form.html"
+			],
+			[
+				"product_list",
+				"oscar-src\\templates\\oscar\\dashboard\\catalogue\\product_list.html"
+			],
+			[
+				"seting",
+				"wrightproduce\\settings.py"
+			],
+			[
+				"parterapp",
+				"wrightproduce\\dashboard\\partners\\app.py"
+			],
+			[
+				"dashboardapp",
+				"oscar-src\\apps\\dashboard\\catalogue\\app.py"
+			],
+			[
+				"avail",
+				"oscar-src\\apps\\partner\\availability.py"
+			],
+			[
+				"sett",
+				"wrightproduce\\settings.py"
+			],
+			[
+				"product_upda",
+				"oscar-src\\templates\\oscar\\dashboard\\catalogue\\product_update.html"
+			],
+			[
+				"cataviews",
+				"oscar-src\\apps\\dashboard\\catalogue\\views.py"
+			],
+			[
+				"addition",
+				"wrightproduce\\templates\\basket\\messages\\addition.html"
+			],
+			[
+				"baskset_con",
+				"wrightproduce\\templates\\basket\\partials\\basket_content.html"
+			],
+			[
+				"basket",
+				"oscar-src\\templates\\oscar\\basket\\basket.html"
+			],
+			[
+				"basketcontent",
+				"wrightproduce\\templates\\basket\\partials\\basket_content.html"
+			],
+			[
+				"strateg",
+				"oscar-src\\apps\\partner\\strategy.py"
+			],
+			[
+				"middlewa",
+				"oscar-src\\apps\\basket\\middleware.py"
+			],
+			[
+				"settings",
+				"wrightproduce\\settings.py"
+			],
+			[
+				"purchasein",
+				"wrightproduce\\purchase_info_tags.py"
+			],
+			[
+				"basketht",
+				"oscar-src\\templates\\oscar\\basket\\basket.html"
+			],
+			[
+				"cataloguemodels",
+				"wrightproduce\\catalogue\\models.py"
+			],
+			[
+				"availa",
+				"oscar-src\\apps\\partner\\availability.py"
+			],
+			[
+				"purchaseinfo",
+				"oscar-src\\templatetags\\purchase_info_tags.py"
+			],
+			[
+				"basket_content",
+				"oscar-src\\templates\\oscar\\basket\\partials\\basket_content.html"
+			],
+			[
+				"basksethtml",
+				"oscar-src\\templates\\oscar\\basket\\basket.html"
+			],
+			[
+				"basketvie",
+				"oscar-src\\apps\\basket\\views.py"
+			],
+			[
+				"basketapp",
+				"oscar-src\\apps\\basket\\app.py"
+			],
+			[
+				"basketiews",
+				"oscar-src\\apps\\basket\\views.py"
+			],
+			[
+				"partnerabstramodels",
+				"oscar-src\\apps\\partner\\abstract_models.py"
+			],
+			[
+				"catalogabstrmodels",
+				"oscar-src\\apps\\catalogue\\abstract_models.py"
+			],
+			[
+				"basketmessageslinsaved",
+				"oscar-src\\templates\\oscar\\basket\\messages\\line_saved.html"
+			],
+			[
+				"basket/messages",
+				"oscar-src\\templates\\oscar\\basket\\messages\\new_total.html"
+			],
+			[
+				"basket/messages/",
+				"oscar-src\\templates\\oscar\\basket\\messages\\line_restored.html"
+			],
+			[
+				"additionht",
+				"oscar-src\\templates\\oscar\\basket\\messages\\addition.html"
+			],
+			[
+				"basketviews",
+				"oscar-src\\apps\\basket\\views.py"
+			],
+			[
+				"settins",
+				"wrightproduce\\settings.py"
+			],
+			[
+				"add_to_bask",
+				"wrightproduce\\templates\\catalogue\\partials\\add_to_basket_form.html"
+			],
+			[
+				"inital_data",
+				"user\\fixtures\\initial_data.json"
+			],
+			[
+				"initialize_",
+				"wrightproduce\\management\\commands\\initialize_store.py"
+			],
+			[
+				"addremodels",
+				"wrightproduce\\address\\models.py"
+			],
+			[
+				"catalogemodels",
+				"wrightproduce\\catalogue\\models.py"
+			],
+			[
+				"catalogueabstr",
+				"oscar-src\\apps\\catalogue\\abstract_models.py"
+			],
+			[
+				"catalogueabstrac",
+				"oscar-src\\apps\\catalogue\\abstract_models.py"
+			],
+			[
+				"productmodels",
+				"wrightproduce\\catalogue\\models.py"
+			],
+			[
+				"basketabstrac",
+				"oscar-src\\apps\\basket\\abstract_models.py"
+			],
+			[
+				"basketmodels",
+				"oscar-src\\apps\\basket\\models.py"
+			],
+			[
+				"wellsl",
+				"wrightproduce\\static\\oscar\\less\\page\\wells.less"
+			],
+			[
+				"wells",
+				"wrightproduce\\static\\oscar\\less\\page\\wells.less"
+			],
+			[
+				"stylle",
+				"wrightproduce\\static\\oscar\\less\\styles.less"
+			],
+			[
+				"login_regi",
+				"wrightproduce\\templates\\customer\\login_registration.html"
+			],
+			[
+				"ogin_re",
+				"wrightproduce\\templates\\customer\\login_registration.html"
+			],
+			[
+				"browsehtml",
+				"oscar-src\\templates\\oscar\\catalogue\\browse.html"
+			],
+			[
+				"broe",
+				"wrightproduce\\templates\\catalogue\\browse.html"
+			],
+			[
+				"formhtml",
+				"oscar-src\\templates\\oscar\\partials\\form.html"
+			],
+			[
+				"form_util",
+				"wrightproduce\\static\\oscar\\js\\form_utils.js"
+			],
+			[
+				"regsterwithtok",
+				"wrightproduce\\templates\\customer\\register_with_token.html"
+			],
+			[
+				"partmodels",
+				"wrightproduce\\partner\\models.py"
+			],
+			[
+				"parterforms",
+				"wrightproduce\\dashboard\\partners\\forms.py"
+			],
+			[
+				"gitign",
+				".gitignore"
+			],
+			[
+				"styleles",
+				"wrightproduce\\static\\oscar\\less\\styles.less"
+			],
+			[
+				"vagran",
+				"Vagrantfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "ace",
+		"selected_items":
+		[
+			[
+				"ace",
+				"C:\\Users\\Jay\\Documents\\Code\\ace\\ace-project.sublime-project"
+			],
+			[
+				"excess",
+				"C:\\Users\\Jay\\Documents\\Code\\excess\\excess-project.sublime-project"
+			],
+			[
+				"exce",
+				"C:\\Users\\Jay\\Documents\\Code\\excess\\excess-project.sublime-project"
+			],
+			[
+				"wright",
+				"C:\\Users\\Jay\\Documents\\Code\\wrightproduce\\wrightproduce-project.sublime-project"
+			],
+			[
+				"codebytas",
+				"C:\\Users\\Jay\\Documents\\Code\\codebytask\\codebytask.sublime-project"
+			],
+			[
+				"carmar",
+				"C:\\Users\\Jay\\Documents\\Code\\carmarket\\carmarket-project.sublime-project"
+			],
+			[
+				"lmswebsto",
+				"C:\\Users\\Jay\\Documents\\Code\\lmswebstore\\lmswebstore-project.sublime-project"
+			],
+			[
+				"lmswe",
+				"C:\\Users\\Jay\\Documents\\Code\\lmswebstore\\lmswebstore-project.sublime-project"
+			],
+			[
+				"camar",
+				"C:\\Users\\Jay\\Documents\\Code\\carmarket\\carmarket-project.sublime-project"
+			],
+			[
+				"uem",
+				"C:\\Users\\Jay\\Documents\\Code\\uem\\uem-project.sublime-project"
+			],
+			[
+				"carmarket",
+				"C:\\Users\\Jay\\Documents\\Code\\carmarket\\carmarket-project.sublime-project"
+			],
+			[
+				"code",
+				"C:\\Users\\Jay\\Documents\\Code\\codebytask\\codebytask.sublime-project"
+			],
+			[
+				"chores",
+				"C:\\Users\\Jay\\Documents\\Code\\mgi_chores\\chores.sublime-project"
+			],
+			[
+				"deploy",
+				"C:\\Users\\Jay\\Documents\\Code\\django-deployment\\deployment-project.sublime-project"
+			],
+			[
+				"jcfa",
+				"C:\\Users\\Jay\\Documents\\Code\\jcfa\\jcfa-project.sublime-project"
+			],
+			[
+				"exces",
+				"C:\\Users\\Jay\\Documents\\Code\\excess\\excess-project.sublime-project"
+			],
+			[
+				"codeby",
+				"C:\\Users\\Jay\\Documents\\Code\\codebytask\\codebytask.sublime-project"
+			],
+			[
+				"coded",
+				"C:\\Users\\Jay\\Documents\\Code\\codebytask\\codebytask.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
